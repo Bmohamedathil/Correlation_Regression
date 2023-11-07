@@ -51,8 +51,6 @@ plt.ylabel('y-data')
 plt.legend(['regression line','data points'])
 ```
 # Output 
-![image](https://github.com/Bmohamedathil/Correlation_Regression/assets/119560261/7f693c65-746f-4026-a9ff-fd9af7b014e0)
-
-
+![280668771-cb46bfb1-88af-4ac3-a731-1cb4a1f073b7](https://github.com/Bmohamedathil/Correlation_Regression/assets/119560261/000c86cb-c83e-41af-a60e-237e832d9ea1)
 # Result
-Thus to analyse given data using coeffificient of correlation and regression line is successfully completed.
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
